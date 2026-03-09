@@ -70,7 +70,7 @@ Mention the stack and the purpose of the project.
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: **yoursite.com**
+- 🌐 Portfolio: **[yoursite.com](https://wawerks.github.io/IT-110-Bootstrap_Portfolio/)**
 - 💼 LinkedIn: **[linkedin.com/in/yourname](https://www.linkedin.com/in/rhowin-lumales-b891152ab/)**
 - 🐦 Facebook: **facebook.com/rhowingg**
 
