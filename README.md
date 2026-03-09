@@ -1,78 +1,95 @@
-<!-- Hero Section -->
+<!-- Banner / Hero -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
 </p>
 
-<h1 align="center">Hey, I'm RJ 👋</h1>
-<h3 align="center">Builder • Problem Solver • Tech Explorer</h3>
+<h1 align="center">Hi, I'm RJ 👋</h1>
+<h3 align="center">Developer • Problem Solver • Technology Explorer</h3>
 
 <p align="center">
-  I love turning ideas into real-world products and constantly learning new technologies.
+  I enjoy building real-world solutions with code and constantly exploring new technologies.
 </p>
 
----
-
-## 🚀 About Me
-- 🔭 Currently building cool stuff  
-- 🧠 Learning new tech every week  
-- 💡 I enjoy solving real-world problems  
-- ⚡ Fun fact: I break things just to fix them better  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
+
+- 🔭 Currently working on **real-world development projects**
+- 🧠 Passionate about **learning new technologies**
+- 💡 I enjoy **solving practical problems with code**
+- ⚡ I break things just to **rebuild them better**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+</p>
+
+---
+
+# 🛠 Tech Stack
 
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
 </p>
 
-### 🧰 Tools & Frameworks
+### ⚙️ Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,git,github,linux,vscode,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Featured Projects
-- 🚧 **Project One** – Short description  
-- 🚀 **Project Two** – What problem it solves  
-- 🌍 **Project Three** – Tech used  
-
----
-
-## 🎯 Current Goals
-- 📈 Become better at system design  
-- 🌐 Build more real-world apps  
-- 🤝 Contribute to open source  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRnNXg2c2s1NGJwY3F0aHh3aW5kOHV3bHFlOHZ5a2h5cGZzNTR0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 🌐 Portfolio: yoursite.com  
-- 🐦 Twitter/X: @yourhandle  
-- 💼 LinkedIn: linkedin.com/in/yourname  
+# 🚀 Featured Projects
+
+🔹 **Project One**  
+Short description of what the project does and the tech used.
+
+🔹 **Project Two**  
+Explain the problem it solves and why it is useful.
+
+🔹 **Project Three**  
+Mention the stack and the purpose of the project.
 
 ---
 
-⭐️ If you like my work, consider giving my repos a star!
+# 🎯 Current Goals
+
+- 📈 Improve **system design & architecture**
+- 🌐 Build more **production-level applications**
+- 🤝 Contribute to **open-source projects**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Portfolio: **yoursite.com**
+- 💼 LinkedIn: **linkedin.com/in/yourname**
+- 🐦 Twitter/X: **@yourhandle**
+
+---
+
+<p align="center">
+⭐ If you find my work interesting, consider giving my repositories a star!
+</p>
