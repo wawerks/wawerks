@@ -10,10 +10,6 @@
   I enjoy building real-world solutions with code and constantly exploring new technologies.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
-</p>
 
 ---
 
@@ -75,8 +71,8 @@ Mention the stack and the purpose of the project.
 # 📫 Connect With Me
 
 - 🌐 Portfolio: **yoursite.com**
-- 💼 LinkedIn: **linkedin.com/in/yourname**
-- 🐦 Twitter/X: **@yourhandle**
+- 💼 LinkedIn: **[linkedin.com/in/yourname](https://www.linkedin.com/in/rhowin-lumales-b891152ab/)**
+- 🐦 Facebook: **facebook.com/rhowingg**
 
 ---
 
