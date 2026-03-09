@@ -46,13 +46,16 @@
 # 🚀 Featured Projects
 
 🔹 **Project One**  
-Short description of what the project does and the tech used.
+A web-based election management system designed to streamline the voting process, manage candidates and voters, and securely record election results through a modern and user-friendly interface.
+https://github.com/wawerks/aecc-election
 
 🔹 **Project Two**  
-Explain the problem it solves and why it is useful.
+A web-based management system developed for ANECO Foundation to streamline organizational operations, information management, and digital services through a centralized platform utilizing OCR for reciept reading.
+https://github.com/wawerks/aneco_foundation
 
 🔹 **Project Three**  
-Mention the stack and the purpose of the project.
+A browser extension designed to help detect potential deepfake media on the web using AI-based analysis, providing users with an additional layer of verification against manipulated digital content.
+https://github.com/wawerks/Deepfake-Web-Browser-Extention-Semi-Final
 
 ---
 
