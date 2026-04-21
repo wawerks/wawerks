@@ -73,8 +73,8 @@ https://github.com/wawerks/Deepfake-Web-Browser-Extention-Semi-Final
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio: **[yoursite.com](https://wawerks.github.io/IT-110-Bootstrap_Portfolio/)**
-- 💼 LinkedIn: **[linkedin.com/in/yourname](https://www.linkedin.com/in/rhowin-lumales-b891152ab/)**
+- 🌐 Portfolio: **https://wawerks.github.io/Portfolio/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/rhowin-lumales-b891152ab/**
 - 🐦 Facebook: **facebook.com/rhowingg**
 
 ---
